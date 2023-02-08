@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kmi.github.io</id>
+    <title>POST-SQUAD</title>
+    <updated>2023-02-08T07:54:36.084Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kmi.github.io"/>
+    <link rel="self" href="https://kmi.github.io/atom.xml"/>
+    <subtitle>邮差好友公会资料公示查看网站</subtitle>
+    <logo>https://kmi.github.io/images/avatar.png</logo>
+    <icon>https://kmi.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, POST-SQUAD</rights>
+    <entry>
+        <title type="html"><![CDATA[邮差服务器规则_V2.2]]></title>
+        <id>https://kmi.github.io/post/服务器规则/</id>
+        <link href="https://kmi.github.io/post/服务器规则/">
+        </link>
+        <updated>2023-02-01T16:00:00.000Z</updated>
+    </entry>
+</feed>
